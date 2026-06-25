@@ -65,7 +65,7 @@ An AI-powered HR assistant platform that streamlines recruitment, onboarding, an
 
 CodeBreakers Workflow:
 
-https://excalidraw.com/#json=GvnzgLk4ngS_vkQl2gXu4,luZ0Grxs73dLc9DacakqEQ
+
 
 ##  Tech Stack
 
