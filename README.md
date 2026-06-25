@@ -64,7 +64,7 @@ An AI-powered HR assistant platform that streamlines recruitment, onboarding, an
 ##  Flowchart
 
 CodeBreakers Workflow:
-![Code-Breakers Workflow](assets/workflow.png)
+![Code-Breakers Workflow](Assets/workflow.png)
 
 
 ##  Tech Stack
