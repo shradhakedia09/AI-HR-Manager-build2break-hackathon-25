@@ -81,10 +81,11 @@ CodeBreakers Workflow:
 
 ```text
 Code-Breakers/
+├── assets/
+│   └── workflow.png
 ├── agents/
 ├── data/
 ├── main.py
-├── requirements.txt
 └── README.md
 ```
 
