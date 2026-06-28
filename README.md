@@ -5,6 +5,7 @@ An AI-powered HR assistant platform that streamlines recruitment, onboarding, an
 ## Live Demo
 
 **Website:** https://codebreakers.streamlit.app/
+
 **Demo Video:** https://drive.google.com/file/d/1AW6Zc9UqBgTbXm-poPQKc7y-f-y4u0Mp/view?usp=sharing
 
 ##  Features
